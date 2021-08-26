@@ -1,0 +1,22 @@
+.App {
+  background: linear-gradient(255.35deg, #DC3131 0.83%, rgba(255, 79, 79, 0) 108.93%), #FF5E56;
+  box-shadow: 0 -0.11px 16.9495px rgba(183, 187, 225, 0.33);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  font-size: 16px;
+  margin: 0 auto;
+  padding: 16px;
+  background-color: initial;
+  cursor: url("/src/assets/cursor/Pointer.svg"), pointer;
+  border-radius: 6px;
+  outline: none;
+}
+.btn:hover {
+  background-color: #EA0029;
+}

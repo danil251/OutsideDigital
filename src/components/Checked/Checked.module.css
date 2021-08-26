@@ -1,0 +1,19 @@
+.checkInput {
+    appearance: none;
+    margin-left: 10px;
+}
+.check {
+    border-bottom: 1px solid #DFE3E6;
+    margin: 10px 0;
+    padding: 10px 0;
+
+}
+.label {
+    display: flex;
+    align-items: flex-start;
+    font-weight: normal;
+}
+.prefix {
+    color: #808080;
+    margin-left: 5px;
+}
